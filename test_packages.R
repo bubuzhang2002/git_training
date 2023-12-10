@@ -1,2 +1,3 @@
 library(RPostgres)
-library(tidyverse) #Often used in data science
+library(tidyverse) #Load main packages often used in data science
+
