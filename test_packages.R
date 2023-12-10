@@ -1,4 +1,2 @@
 library(RPostgres)
-library(tidyverse)
-
-Hello 
+library(tidyverse) #Load main packages
